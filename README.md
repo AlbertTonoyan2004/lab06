@@ -5,7 +5,7 @@
 Клонировал репозиторий от ЛР (лабораторной работы)  №4
 
 ```console
-$ git clone https://github.com/3Artem99/lab040 lab06
+$ git clone https://github.com/AlbertTonotan2004/lab040 lab06
 ```
 
 ```console
@@ -21,7 +21,7 @@ remote: Total 124 (delta 56), reused 118 (delta 55), pack-reused 0
 Переключился на репозиторий для ЛР №6
 ```console
 $ git remote remove origin
-$ git remote add origin https://github.com/3Artem99/lab06
+$ git remote add origin https://github.com/AlbertTonotan2004/lab06
 ```
 
 Создал файл CPackConfig.cmake
@@ -68,8 +68,8 @@ $ git push origin main
 ```
 
 ```console
-Username for 'https://github.com': 3Artem99
-Password for 'https://3Artem99@github.com': 
+Username for 'https://github.com': AlbertTonotan2004
+Password for 'https://AlbertTonotan2004@github.com': 
 Перечисление объектов: 130, готово.
 Подсчет объектов: 100% (130/130), готово.
 При сжатии изменений используется до 4 потоков
@@ -77,7 +77,7 @@ Password for 'https://3Artem99@github.com':
 Запись объектов: 100% (130/130), 1.03 МиБ | 29.26 МиБ/с, готово.
 Всего 130 (изменений 58), повторно использовано 123 (изменений 56), повторно использовано пакетов 0
 remote: Resolving deltas: 100% (58/58), done.
-To https://github.com/3Artem99/lab06
+To https://github.com/AlbertTonotan2004/lab06
  * [new branch]      main -> main
 ```
 
